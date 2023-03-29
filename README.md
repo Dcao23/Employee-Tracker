@@ -5,4 +5,4 @@
 - So that I can orgnaize and plan my business
 
 ## Description
-- 
+- This application uses node to create tables and store data within a SQL database.
